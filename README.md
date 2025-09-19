@@ -73,10 +73,13 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ### Whois
+<img width="1920" height="1080" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/c38ea2a5-02f1-4164-8bb9-649449e958b4" />
 
 ### Finding Hosting Company :
+<img width="1920" height="1080" alt="Screenshot (307)" src="https://github.com/user-attachments/assets/37a0f0df-c279-472b-9b8b-bf9d3192b278" />
 
 ### History of the website :
+<img width="1920" height="1080" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/144b9a21-60d1-46d8-a055-eb3d391ff665" />
 
 ### ping command :
 
