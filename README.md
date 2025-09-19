@@ -81,7 +81,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ### History of the website :
 <img width="1920" height="1080" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/144b9a21-60d1-46d8-a055-eb3d391ff665" />
 
-### ping command :<img width="1920" height="936" alt="ping" src="https://github.com/user-attachments/assets/bec93a64-863d-476f-92bb-7eb8b0064f44" />
+### ping command :
+<img width="1920" height="936" alt="ping" src="https://github.com/user-attachments/assets/bec93a64-863d-476f-92bb-7eb8b0064f44" />
 
 
 ### whois :
@@ -96,7 +97,6 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ### whatweb :
 ![Uploading nmap.png…]()
 
-### httprint :
 
 ### TCP traceroute :
 ![Uploading tcp.png…]()
